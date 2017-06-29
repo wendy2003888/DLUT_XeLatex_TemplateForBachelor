@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2016.9.1)  29 JUN 2017 23:35
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2016.9.1)  30 JUN 2017 00:07
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -2457,24 +2457,24 @@ Chapter 4.
 \tf@thm=\write6
 \openout6 = `main.thm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 134.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 134.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 99.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 99.
  (./main.aux (./body/chap00.aux)
 (./body/chap01.aux) (./body/chap02.aux) (./body/chap03.aux)
 (./body/conclusion.aux) (./appendix/acknowledgements.aux))
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 134.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 134.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 99.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 99.
 
 
 LaTeX Warning: There were undefined references.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 134.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 99.
  ) 
 Here is how much of TeX's memory you used:
- 36458 strings out of 493591
- 693109 string characters out of 6143547
- 750612 words of memory out of 5000000
- 39243 multiletter control sequences out of 15000+600000
+ 36456 strings out of 493591
+ 693085 string characters out of 6143547
+ 749675 words of memory out of 5000000
+ 39241 multiletter control sequences out of 15000+600000
  31463 words of font info for 231 fonts, out of 8000000 for 9000
  1347 hyphenation exceptions out of 8191
  46i,16n,89p,10393b,2364s stack positions out of 5000i,500n,10000p,200000b,80000s
